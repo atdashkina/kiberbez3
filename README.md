@@ -207,7 +207,8 @@ Wireshark используется для детального анализа с
 
 **Место для скриншота 1**
 
-!(/kiberbez3/tree/master/report/image/pic1.png)
+!(kiberbez3/tree/master/report/image/pic1.png)
+
 > **[ВСТАВИТЬ СКРИНШОТ: веб-интерфейс pfSense после входа]**
 
 *Рисунок 12 — Веб-интерфейс межсетевого экрана pfSense.*
